@@ -1,0 +1,13 @@
+name: MythicLib
+author: Lumine Studios
+main: io.lumine.mythic.lib.MythicLib
+api-version: 1.13
+version: 1.3.2
+depend: [MythicMobs]
+loadbefore: [ MMOCore,MMOItems ]
+softdepend: [ WorldGuard,Residence,Factions ]
+description: Kind of like mythiclib, but without the generic disorders
+...
+...
+.
+
