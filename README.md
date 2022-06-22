@@ -1,0 +1,2 @@
+# MythicLib
+depend: [MythicMobs]
